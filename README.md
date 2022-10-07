@@ -1,3 +1,2 @@
 # Hacktoberfest
-Testting and Want to experience how maintainers work on github.
-Also, git fundamentals
+Resources of devops, cloud and golang
